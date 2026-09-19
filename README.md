@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi,I'm Kanika Sri S S 👋
 
-<!--
-**Kanikasri-11/Kanikasri-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓B.Tech Information Technology Student at Nandha Engineering College 
+💻Aspiring Java Full Stack Developer
+🌿Currently Learning React.js and BackEnd technologies
+🧩Solved 90+ LeetCode Problems
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+->Java
+->JavaScript
+->React.js
+->HTML5
+->CSS3
+->Git & GitHub
+
+
+
