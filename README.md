@@ -3,7 +3,7 @@
 🎓B.Tech Information Technology Student at Nandha Engineering College 
 💻Aspiring Java Full Stack Developer
 🌿Currently Learning React.js and BackEnd technologies
-🧩Solved 90+ LeetCode Problems
+🧩Solved 120+ LeetCode Problems
 
 ## Tech Stack
 
